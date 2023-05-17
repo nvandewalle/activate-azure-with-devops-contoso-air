@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/nvdw-external/activate-azure-with-devops/_apis/build/status%2Fnvandewalle.activate-azure-with-devops-contoso-air?branchName=master)](https://dev.azure.com/nvdw-external/activate-azure-with-devops/_build/latest?definitionId=22&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
